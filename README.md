@@ -16,4 +16,12 @@ Ejecutar
  usuario: marcelorojas07@gmail.com
  pass: mrojasd
 
+ 4 - .env
+
+ En archivo .env agregar:
+
+ AMPLIFICA_BASE_URL=https://postulaciones.amplifica.io
+AMPLIFICA_USERNAME=marcelorojas07@gmail.com
+AMPLIFICA_PASSWORD=12345
+
  
