@@ -1,15 +1,14 @@
 # amplifica
 Desafio
 
-1 - Para cargar productos de prueba
+1 - Instalación proyecto, copiar carpeta y configurar .env con las credenciales de la base de datos y ejecutar composer update (SQL de base de datos se encuentra en carpeta (SQL) del proyecto)
+
+2 - Para cargar productos de prueba
 
 Ejecutar
 
 1.1 php artisan tinker
 1.2 App\Models\Productos::factory()->count(10)->create();
-
-
-2 - Instalación proyecto, copiar carpeta y configurar .env con las credenciales de la base de datos y ejecutar composer update
 
 3 - Login
 
